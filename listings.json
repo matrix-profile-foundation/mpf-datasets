@@ -1,0 +1,127 @@
+[
+    {
+        "name":"4096.txt.gz",
+        "description":"A random walk dataset of 4,096 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"16.txt.gz",
+        "description":"A random walk dataset of 16 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"8192.txt.gz",
+        "description":"A random walk dataset of 8,192 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"128.txt.gz",
+        "description":"A random walk dataset of 128 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"524288.txt.gz",
+        "description":"A random walk dataset of 524,288 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"2097152.txt.gz",
+        "description":"A random walk dataset of 2,097,152 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"32768.txt.gz",
+        "description":"A random walk dataset of 32,768 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"256.txt.gz",
+        "description":"A random walk dataset of 256 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"16384.txt.gz",
+        "description":"A random walk dataset of 16,384 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"131072.txt.gz",
+        "description":"A random walk dataset of 131,072 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"1048576.txt.gz",
+        "description":"A random walk dataset of 1,048,576 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"1024.txt.gz",
+        "description":"A random walk dataset of 1,024 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"2048.txt.gz",
+        "description":"A random walk dataset of 2,048 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"65536.txt.gz",
+        "description":"A random walk dataset of 65,536 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"512.txt.gz",
+        "description":"A random walk dataset of 512 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"4.txt.gz",
+        "description":"A random walk dataset of 4 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"4194304.txt.gz",
+        "description":"A random walk dataset of 4,194,304 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"262144.txt.gz",
+        "description":"A random walk dataset of 262,144 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"32.txt.gz",
+        "description":"A random walk dataset of 32 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"8.txt.gz",
+        "description":"A random walk dataset of 8 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"64.txt.gz",
+        "description":"A random walk dataset of 64 data points.",
+        "category":"benchmark"
+    },
+    {
+        "name":"nyc-taxi-anomalies.csv",
+        "description":"Taxi passenger frequency from 2014-07-01 to 2015-01-31. The sample frequency is every 30 minutes consisting of 10,320 data points.",
+        "category":"real"
+    },
+    {
+        "name":"walk-jog-run.txt",
+        "description":"A segmentation data set where a sensor is attached to an individual as they walk, jog and run. This dataset is originally from the paper: 'Domain Agnostic Online Semantic Segmentation'.",
+        "category":"real"
+    },
+    {
+        "name":"sudden-cardiac-death.txt",
+        "description":"A segmentation data set where a patient is undergoing cardia surgery and suddenly dies. This dataset is originally from the paper: 'Domain Agnostic Online Semantic Segmentation'.",
+        "category":"real"
+    },
+    {
+        "name":"motifs-discords-small.txt",
+        "description":"A small synthetic data set of 875 data points that have both motifs and discords.",
+        "category":"synthetic"
+    }
+]
