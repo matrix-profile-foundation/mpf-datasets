@@ -116,7 +116,7 @@
     },
     {
         "name":"sudden-cardiac-death.txt",
-        "description":"A segmentation data set where a patient is undergoing cardia surgery and suddenly dies. This dataset is originally from the paper: 'Domain Agnostic Online Semantic Segmentation'.",
+        "description":"A segmentation data set where a patient is undergoing cardiac surgery and suddenly dies. This dataset is originally from the paper: 'Domain Agnostic Online Semantic Segmentation'.",
         "category":"real"
     },
     {
