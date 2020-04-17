@@ -110,6 +110,11 @@
         "category":"real"
     },
     {
+        "name":"ecg-heartbeat-av.csv",
+        "description":"A data set where a patient's heartbeat is being measured using an ECG sensor. This dataset is originally from the LTAF-71 database.",
+        "category":"real"
+    },
+    {
         "name":"walk-jog-run.txt",
         "description":"A segmentation data set where a sensor is attached to an individual as they walk, jog and run. This dataset is originally from the paper: 'Domain Agnostic Online Semantic Segmentation'.",
         "category":"real"
