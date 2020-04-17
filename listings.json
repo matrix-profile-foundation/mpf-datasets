@@ -110,7 +110,7 @@
         "category":"real"
     },
     {
-        "name":"ecg-heartbeat-av.csv",
+        "name":"ecg-heartbeat-av.txt",
         "description":"A data set where a patient's heartbeat is being measured using an ECG sensor. This dataset is originally from the LTAF-71 database.",
         "category":"real"
     },
